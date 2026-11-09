@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Game | My Web Journey</title>
+  <meta name="description" content="Play a simple twenty-second star clicking game made with JavaScript.">
+  <meta property="og:title" content="My Web Journey"><meta property="og:description" content="Play a simple star clicking game.">
+  <meta property="og:image" content="https://YOUR-GITHUB-NAME.github.io/my-web-journey/images/og-image.jpg"><meta property="og:url" content="https://YOUR-GITHUB-NAME.github.io/my-web-journey/game.html"><meta property="og:type" content="website">
+  <link rel="icon" href="images/favicon-32.png" sizes="32x32"><link rel="apple-touch-icon" href="images/apple-touch-icon.png"><link rel="stylesheet" href="style.css"><script src="script.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+  <header class="site-header"><div class="header-inner"><a class="brand" href="index.html"><span class="brand-mark">MW</span>My Web Journey</a><nav class="site-nav" aria-label="Main navigation"><ul><li><a href="index.html">Home</a></li><li><a href="quotes.html">Quotes</a></li><li><a href="contact.html">Contact</a></li><li><a href="project.html">Project</a></li><li><a href="game.html" aria-current="page">Game</a></li></ul></nav></div></header>
+  <main id="main">
+    <header class="page-hero"><div class="page-width"><p class="eyebrow">A Simple JavaScript Game</p><h1>Catch the web star</h1><p>Start the game and click the moving star. You have twenty seconds.</p></div></header>
+    <section class="section"><div class="page-width game-layout">
+      <div><img class="feature-image" src="images/game-stars.svg" alt="Bright stars on a game grid"><div class="info-card"><h2>How to play</h2><p>Press Start Game. Click the yellow star each time it moves. One click gives you one point.</p><button id="start-game" type="button">Start Game</button><div class="game-stats"><p>Score<strong id="score">0</strong></p><p>Time<strong id="time-left">20</strong></p></div><p class="game-message" id="game-message" aria-live="polite">Press Start Game when you are ready.</p></div></div>
+      <div class="game-panel"><div class="game-board" aria-label="Game area"><button class="game-target" id="game-target" type="button" aria-label="Catch the star" disabled>★</button></div></div>
+    </div></section>
+  </main>
+  <footer class="site-footer"><div class="page-width footer-grid"><p><strong>My Web Journey</strong><br>A Web Technology student project.</p><p>No login. No score is saved.</p></div></footer>
+</body>
+</html>

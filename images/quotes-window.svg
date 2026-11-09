@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="t d">
+  <title id="t">Ideas by a bright window</title><desc id="d">An open book, a plant and quote marks by a sunny window.</desc>
+  <rect width="800" height="600" rx="42" fill="#10243e"/><rect x="80" y="70" width="640" height="390" rx="20" fill="#e8f3fa"/><path d="M400 70v390M80 260h640" stroke="#1b75d0" stroke-width="16"/><circle cx="590" cy="160" r="65" fill="#ffd45a"/>
+  <path d="M0 450h800v150H0z" fill="#c98c58"/><path d="M210 430c75-40 135-20 190 25 55-45 115-65 190-25v110c-75-25-135-10-190 25-55-35-115-50-190-25z" fill="#fff" stroke="#10243e" stroke-width="8"/><path d="M400 455v110" stroke="#10243e" stroke-width="7"/>
+  <path d="M120 415v-95h85v95" fill="#ffd45a"/><path d="M162 320c-75-30-64-108 3-80 12-68 95-39 73 20 65-1 60 82-3 74-22 61-92 43-88-10" fill="#41a86f"/>
+  <text x="300" y="260" fill="#10243e" font-family="Georgia,serif" font-size="150" font-weight="bold">“ ”</text>
+</svg>

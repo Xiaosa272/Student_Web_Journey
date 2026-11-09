@@ -1,0 +1,23 @@
+TITLE
+My Web Journey
+
+SHORT DESCRIPTION
+A five-page English website about web learning, useful quotes, contact details, a project and a simple game.
+
+LONG DESCRIPTION
+My Web Journey is a five-page English website made by a second-year computer student. The Home page introduces my experience of learning Web Technology and building websites.
+
+The Quotes page shares short words that help people continue learning. A button shows a new quote. The Contact page gives my school email address and lets a visitor open an email message.
+
+The Project page explains how I planned, built and tested the website. It shows how HTML, CSS and JavaScript work together. The Game page has a simple twenty-second star game with a score.
+
+The website uses clear English, self-made SVG pictures and one visual style. It works on a computer and a phone. It has no login, database or saved personal data.
+
+GITHUB REPOSITORY
+Replace after the repository is created.
+
+LIVE SITE
+Replace after GitHub Pages is enabled.
+
+STATUS
+Completed
